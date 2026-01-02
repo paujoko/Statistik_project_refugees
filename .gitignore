@@ -1,0 +1,7 @@
+.idea/
+.venv/
+heatmap_frames/
+Output_gifs/
+Plots/
+output_csv_files/
+__pycache__/
