@@ -496,7 +496,6 @@ Year,Country / territory of asylum/residence,Origin,Population type,Value
 1968,Ethiopia,Sudan,Refugees (incl. refugee-like situations),20000
 1968,France,Various/Unknown,Refugees (incl. refugee-like situations),176736
 1968,United Kingdom,Various/Unknown,Refugees (incl. refugee-like situations),161000
-1968,Equatorial Guinea,Nigeria,Refugees (incl. refugee-like situations),40000
 1968,Greece,Greece,Refugees (incl. refugee-like situations),2940
 1968,Greece,Various/Unknown,Refugees (incl. refugee-like situations),5320
 1968,India,Tibetan,Refugees (incl. refugee-like situations),55000
@@ -1219,7 +1218,6 @@ Year,Country / territory of asylum/residence,Origin,Population type,Value
 1975,Switzerland,Various/Unknown,Refugees (incl. refugee-like situations),35000
 1975,Chile,Various/Unknown,Refugees (incl. refugee-like situations),3300
 1975,Côte d'Ivoire,Guinea,Refugees (incl. refugee-like situations),300000
-1975,Cameroon,Equatorial Guinea,Refugees (incl. refugee-like situations),30000
 1975,Dem. Rep. of the Congo,Angola,Refugees (incl. refugee-like situations),460000
 1975,Dem. Rep. of the Congo,Burundi,Refugees (incl. refugee-like situations),24000
 1975,Dem. Rep. of the Congo,Rwanda,Refugees (incl. refugee-like situations),24300
@@ -1236,7 +1234,6 @@ Year,Country / territory of asylum/residence,Origin,Population type,Value
 1975,Ethiopia,Sudan,Refugees (incl. refugee-like situations),11000
 1975,Ethiopia,Various/Unknown,Refugees (incl. refugee-like situations),150
 1975,France,Various/Unknown,Refugees (incl. refugee-like situations),109882
-1975,Gabon,Equatorial Guinea,Refugees (incl. refugee-like situations),60000
 1975,United Kingdom,Various/Unknown,Refugees (incl. refugee-like situations),153000
 1975,Ghana,Various/Unknown,Refugees (incl. refugee-like situations),130
 1975,Gambia,Guinea-Bissau,Returnees,1240
@@ -1335,7 +1332,6 @@ Year,Country / territory of asylum/residence,Origin,Population type,Value
 1976,Chile,Various/Unknown,Refugees (incl. refugee-like situations),4000
 1976,Côte d'Ivoire,Guinea,Refugees (incl. refugee-like situations),500000
 1976,Côte d'Ivoire,Various/Unknown,Refugees (incl. refugee-like situations),70
-1976,Cameroon,Equatorial Guinea,Refugees (incl. refugee-like situations),30000
 1976,Dem. Rep. of the Congo,Angola,Refugees (incl. refugee-like situations),471340
 1976,Dem. Rep. of the Congo,Burundi,Refugees (incl. refugee-like situations),18220
 1976,Dem. Rep. of the Congo,Rwanda,Refugees (incl. refugee-like situations),24500
@@ -1354,7 +1350,6 @@ Year,Country / territory of asylum/residence,Origin,Population type,Value
 1976,Ethiopia,Sudan,Refugees (incl. refugee-like situations),10600
 1976,Ethiopia,Various/Unknown,Refugees (incl. refugee-like situations),90
 1976,France,Various/Unknown,Refugees (incl. refugee-like situations),114634
-1976,Gabon,Equatorial Guinea,Refugees (incl. refugee-like situations),60000
 1976,United Kingdom,Various/Unknown,Refugees (incl. refugee-like situations),153000
 1976,Ghana,Various/Unknown,Refugees (incl. refugee-like situations),180
 1976,Greece,Greece,Refugees (incl. refugee-like situations),450
@@ -1438,7 +1433,6 @@ Year,Country / territory of asylum/residence,Origin,Population type,Value
 1977,Canada,Various/Unknown,Refugees (incl. refugee-like situations),29537
 1977,Switzerland,Various/Unknown,Refugees (incl. refugee-like situations),30000
 1977,Chile,Various/Unknown,Refugees (incl. refugee-like situations),5200
-1977,Cameroon,Equatorial Guinea,Refugees (incl. refugee-like situations),30000
 1977,Dem. Rep. of the Congo,Angola,Refugees (incl. refugee-like situations),500000
 1977,Dem. Rep. of the Congo,Burundi,Refugees (incl. refugee-like situations),11300
 1977,Dem. Rep. of the Congo,Rwanda,Refugees (incl. refugee-like situations),18000
@@ -1465,7 +1459,6 @@ Year,Country / territory of asylum/residence,Origin,Population type,Value
 1977,Ethiopia,Sudan,Refugees (incl. refugee-like situations),10850
 1977,Ethiopia,Various/Unknown,Refugees (incl. refugee-like situations),90
 1977,France,Various/Unknown,Refugees (incl. refugee-like situations),119413
-1977,Gabon,Equatorial Guinea,Refugees (incl. refugee-like situations),90000
 1977,United Kingdom,Various/Unknown,Refugees (incl. refugee-like situations),148000
 1977,Ghana,Namibia,Refugees (incl. refugee-like situations),50
 1977,Ghana,Various/Unknown,Refugees (incl. refugee-like situations),120
@@ -1580,7 +1573,6 @@ Year,Country / territory of asylum/residence,Origin,Population type,Value
 1978,Switzerland,Various/Unknown,Refugees (incl. refugee-like situations),30000
 1978,Chile,Serbia and Kosovo (S/RES/1244 (1999)),Refugees (incl. refugee-like situations),80
 1978,Chile,Various/Unknown,Refugees (incl. refugee-like situations),3000
-1978,Cameroon,Equatorial Guinea,Refugees (incl. refugee-like situations),30000
 1978,Dem. Rep. of the Congo,Angola,Refugees (incl. refugee-like situations),620000
 1978,Dem. Rep. of the Congo,Angola,Returnees,30000
 1978,Dem. Rep. of the Congo,Burundi,Refugees (incl. refugee-like situations),11000
@@ -1608,7 +1600,6 @@ Year,Country / territory of asylum/residence,Origin,Population type,Value
 1978,Ethiopia,Various/Unknown,Refugees (incl. refugee-like situations),80
 1978,France,Various/Unknown,Refugees (incl. refugee-like situations),126229
 1978,Gabon,Benin,Refugees (incl. refugee-like situations),200
-1978,Gabon,Equatorial Guinea,Refugees (incl. refugee-like situations),60000
 1978,United Kingdom,Various/Unknown,Refugees (incl. refugee-like situations),150000
 1978,Ghana,Namibia,Refugees (incl. refugee-like situations),50
 1978,Ghana,Various/Unknown,Refugees (incl. refugee-like situations),20
@@ -1741,8 +1732,6 @@ Year,Country / territory of asylum/residence,Origin,Population type,Value
 1979,Switzerland,Various/Unknown,Refugees (incl. refugee-like situations),30000
 1979,Chile,Various/Unknown,Refugees (incl. refugee-like situations),2000
 1979,China,Viet Nam,Refugees (incl. refugee-like situations),250000
-1979,Cameroon,Equatorial Guinea,Refugees (incl. refugee-like situations),10000
-1979,Cameroon,Equatorial Guinea,Returnees,250
 1979,Cameroon,Chad,Refugees (incl. refugee-like situations),8000
 1979,Cameroon,Various/Unknown,Refugees (incl. refugee-like situations),1990
 1979,Dem. Rep. of the Congo,Angola,Refugees (incl. refugee-like situations),626700
@@ -1773,8 +1762,6 @@ Year,Country / territory of asylum/residence,Origin,Population type,Value
 1979,Ethiopia,Various/Unknown,Refugees (incl. refugee-like situations),80
 1979,France,Various/Unknown,Refugees (incl. refugee-like situations),119489
 1979,Gabon,Benin,Refugees (incl. refugee-like situations),200
-1979,Gabon,Equatorial Guinea,Refugees (incl. refugee-like situations),30000
-1979,Gabon,Equatorial Guinea,Returnees,30000
 1979,United Kingdom,Various/Unknown,Refugees (incl. refugee-like situations),146000
 1979,Ghana,Namibia,Refugees (incl. refugee-like situations),80
 1979,Ghana,Various/Unknown,Refugees (incl. refugee-like situations),220
@@ -1926,7 +1913,6 @@ Year,Country / territory of asylum/residence,Origin,Population type,Value
 1980,Switzerland,Various/Unknown,Refugees (incl. refugee-like situations),32000
 1980,Chile,Various/Unknown,Refugees (incl. refugee-like situations),1500
 1980,China,Viet Nam,Refugees (incl. refugee-like situations),263000
-1980,Cameroon,Equatorial Guinea,Refugees (incl. refugee-like situations),18000
 1980,Cameroon,Chad,Refugees (incl. refugee-like situations),110000
 1980,Dem. Rep. of the Congo,Angola,Refugees (incl. refugee-like situations),426700
 1980,Dem. Rep. of the Congo,Angola,Returnees,200000
@@ -1959,8 +1945,6 @@ Year,Country / territory of asylum/residence,Origin,Population type,Value
 1980,Ethiopia,Sudan,Refugees (incl. refugee-like situations),10850
 1980,Ethiopia,Various/Unknown,Refugees (incl. refugee-like situations),80
 1980,France,Various/Unknown,Refugees (incl. refugee-like situations),121958
-1980,Gabon,Equatorial Guinea,Refugees (incl. refugee-like situations),20000
-1980,Gabon,Equatorial Guinea,Returnees,10000
 1980,United Kingdom,Various/Unknown,Refugees (incl. refugee-like situations),148000
 1980,Greece,Greece,Refugees (incl. refugee-like situations),340
 1980,Greece,Various/Unknown,Refugees (incl. refugee-like situations),3410
@@ -1994,7 +1978,6 @@ Year,Country / territory of asylum/residence,Origin,Population type,Value
 1980,Italy,Ethiopia,Refugees (incl. refugee-like situations),218
 1980,Italy,Ghana,Refugees (incl. refugee-like situations),2
 1980,Italy,Guinea-Bissau,Refugees (incl. refugee-like situations),2
-1980,Italy,Equatorial Guinea,Refugees (incl. refugee-like situations),1
 1980,Italy,Hungary,Refugees (incl. refugee-like situations),763
 1980,Italy,Iran (Islamic Rep. of),Refugees (incl. refugee-like situations),48
 1980,Italy,Iraq,Refugees (incl. refugee-like situations),98
@@ -2149,7 +2132,6 @@ Year,Country / territory of asylum/residence,Origin,Population type,Value
 1981,Switzerland,Various/Unknown,Refugees (incl. refugee-like situations),40000
 1981,Chile,Various/Unknown,Refugees (incl. refugee-like situations),1500
 1981,China,Viet Nam,Refugees (incl. refugee-like situations),265000
-1981,Cameroon,Equatorial Guinea,Refugees (incl. refugee-like situations),18000
 1981,Cameroon,Namibia,Refugees (incl. refugee-like situations),90
 1981,Cameroon,Chad,Refugees (incl. refugee-like situations),136690
 1981,Cameroon,Chad,Returnees,93310
@@ -2225,7 +2207,6 @@ Year,Country / territory of asylum/residence,Origin,Population type,Value
 1981,Italy,Ethiopia,Refugees (incl. refugee-like situations),376
 1981,Italy,Ghana,Refugees (incl. refugee-like situations),2
 1981,Italy,Guinea-Bissau,Refugees (incl. refugee-like situations),2
-1981,Italy,Equatorial Guinea,Refugees (incl. refugee-like situations),1
 1981,Italy,Hungary,Refugees (incl. refugee-like situations),744
 1981,Italy,Iran (Islamic Rep. of),Refugees (incl. refugee-like situations),83
 1981,Italy,Iraq,Refugees (incl. refugee-like situations),189
@@ -2386,7 +2367,6 @@ Year,Country / territory of asylum/residence,Origin,Population type,Value
 1982,China,Lao People's Dem. Rep.,Refugees (incl. refugee-like situations),3750
 1982,China,Viet Nam,Refugees (incl. refugee-like situations),268350
 1982,Cameroon,Central African Rep.,Refugees (incl. refugee-like situations),15000
-1982,Cameroon,Equatorial Guinea,Refugees (incl. refugee-like situations),18000
 1982,Cameroon,Namibia,Refugees (incl. refugee-like situations),90
 1982,Cameroon,Chad,Refugees (incl. refugee-like situations),3610
 1982,Cameroon,Chad,Returnees,133080
